@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: gray;
+}
+
+a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+a:visited {
+    text-decoration: none;
+    color: hotpink;
+}
+
+a:active {
+    text-decoration: none;
+    color: red;
+}
+
+#form {
+    border: gray 2px solid;
+    width: 40%;
+    float: center;
+    padding: 5px 200px;
+}
+
+#search {
+    width: 15%;
+}
